@@ -4,11 +4,9 @@
 
 The scope of this project was to create a product to replace bulky and expensive lab equipment used in chemical analysis. The app uses Principle Component Analysis to determine the difference between proteins by taking a picture of protein trays and comparing those pictures to a reference file.
 
-## Download
+## Demo
 
-If you would like try out that app without downloading the source code, you can use this QR code to download it straight to your Android device.
 
-![alt-text](https://github.com/zbockskopf/PCA-App/blob/master/Documents/QR_Code.PNG "PCA QR Code")
 
 ## Getting Started
 
@@ -24,8 +22,28 @@ Items needed to run the program on a Windows machine
   - Google Android Emulator (API Level 25)
   - If you have an Android phone this is not necessary 
 
+
+
 ### Running the App
 
-__Recommended way__
+##### Recommended way
 
-After installing the prerequisites the best way to run the application is using an Android device. You can either use it as a simulator through VS or
+Using an Android phone, download the app using the QR Code in the [Download Section](##Download)
+
+##### Using a PC and an Android Phone
+
+First you will want to clone or download the zip file to your local machine. Next load up the solution file with Visual Studio and plug your phone into your computer. Finally,  from the Run drop down menu select your Android device and click Run.
+
+##### Using a PC and an Android Emulator
+
+This process is the same as the last expect for the last step. You will want to choose your Android Emulator from the dropdown menu instead.
+
+
+
+
+
+## Download
+
+If you would like try out that app without downloading the source code, you can use this QR code to download it straight to your Android device.
+
+![alt-text](https://github.com/zbockskopf/PCA-App/blob/master/Documents/QR_Code.PNG "PCA QR Code")
